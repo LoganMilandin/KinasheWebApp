@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="364ba186-eef3-48ee-9b25-99e8ed82672d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignUp.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1VvGeQW9wCVgMKBG7eWIDFDPDNq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="ts.external.directory.path" value="C:\Users\alexx\AppData\Local\JetBrains\IntelliJ IDEA 2019.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexx\Documents\Programming\Webpages\kinashe\src\Constants" />
+      <recent name="C:\Users\alexx\Documents\Programming\Webpages\kinashe\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexx\OneDrive\Programming\Webpages\kinashe\src\components" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="364ba186-eef3-48ee-9b25-99e8ed82672d" name="Default Changelist" comment="" />
+      <created>1573626349459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573626349459</updated>
+      <workItem from="1573626353720" duration="8059000" />
+      <workItem from="1573946342843" duration="26905000" />
+      <workItem from="1574545164674" duration="50339000" />
+      <workItem from="1575167337478" duration="4129000" />
+      <workItem from="1575438782438" duration="3512000" />
+      <workItem from="1576211897966" duration="1079000" />
+      <workItem from="1576619962731" duration="16802000" />
+      <workItem from="1576702106593" duration="10900000" />
+      <workItem from="1577062656487" duration="12544000" />
+      <workItem from="1577739957244" duration="38879000" />
+      <workItem from="1577840992387" duration="54947000" />
+      <workItem from="1578126257803" duration="1404000" />
+      <workItem from="1578177428001" duration="325000" />
+      <workItem from="1578190733627" duration="1363000" />
+      <workItem from="1578198104865" duration="13852000" />
+    </task>
+    <task id="LOCAL-00001" summary="added signup page">
+      <created>1573674372344</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573674372344</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added signup page">
+      <created>1573674495844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573674495844</updated>
+    </task>
+    <task id="LOCAL-00003" summary="starting router">
+      <created>1573676732614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573676732615</updated>
+    </task>
+    <task id="LOCAL-00004" summary="starting router">
+      <created>1573680671671</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573680671671</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed some node modules">
+      <created>1573946633221</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573946633221</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removed old functional code, started making new forms">
+      <created>1573953758287</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573953758287</updated>
+    </task>
+    <task id="LOCAL-00007" summary="skeleton coupon (company view) created">
+      <created>1573967836793</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573967836793</updated>
+    </task>
+    <task id="LOCAL-00008" summary="finished Sign Up skeleton UI, started new Coupon skeleton UI">
+      <created>1574034407916</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574034407916</updated>
+    </task>
+    <task id="LOCAL-00009" summary="banger of a coupon creator">
+      <created>1574561433728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574561433728</updated>
+    </task>
+    <task id="LOCAL-00010" summary="banger of a coupon creator">
+      <created>1574561462521</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574561462521</updated>
+    </task>
+    <task id="LOCAL-00011" summary="basic administrator page">
+      <created>1574574956760</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574574956761</updated>
+    </task>
+    <task id="LOCAL-00012" summary="turning on auth">
+      <created>1574575010592</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574575010592</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added account approval/denial, a buggy coupon creater">
+      <created>1575013819287</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575013819287</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added date pickers, started file upload">
+      <created>1575173033307</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575173033307</updated>
+    </task>
+    <task id="LOCAL-00015" summary="changes to coupon and creator container">
+      <created>1576620706706</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1576620706706</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added hours to coupon creator">
+      <created>1576643015183</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1576643015184</updated>
+    </task>
+    <task id="LOCAL-00017" summary="changes to Coupon, payment details (bank acc)">
+      <created>1576664765561</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1576664765561</updated>
+    </task>
+    <task id="LOCAL-00018" summary="moved location and hours from coupon creation to signup">
+      <created>1576703024577</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1576703024578</updated>
+    </task>
+    <task id="LOCAL-00019" summary="less scuffed signup formatting">
+      <created>1576804538953</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1576804538953</updated>
+    </task>
+    <task id="LOCAL-00020" summary="updated menubar, added (temp) way in for Alex bc VPN are inconsistant.">
+      <created>1576807894687</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1576807894687</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added skeleton ui for settings page (should open with fields prefilled, but currently doesn't)">
+      <created>1576811510801</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1576811510801</updated>
+    </task>
+    <task id="LOCAL-00022" summary="re-added Alex skip auth.">
+      <created>1577068283930</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1577068283930</updated>
+    </task>
+    <task id="LOCAL-00023" summary="minor account settings ui changes">
+      <created>1577101588968</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1577101588968</updated>
+    </task>
+    <task id="LOCAL-00024" summary="re-added my old UI and added Notes">
+      <created>1577103348150</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1577103348150</updated>
+    </task>
+    <task id="LOCAL-00025" summary="notes.txt">
+      <created>1577103569497</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1577103569497</updated>
+    </task>
+    <task id="LOCAL-00026" summary="notes.txt">
+      <created>1577103880329</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1577103880329</updated>
+    </task>
+    <task id="LOCAL-00027" summary="notes.txt">
+      <created>1577104044349</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1577104044349</updated>
+    </task>
+    <task id="LOCAL-00028" summary="updated signup ui">
+      <created>1577751945311</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1577751945311</updated>
+    </task>
+    <task id="LOCAL-00029" summary="minor ui changes to coupon and company home">
+      <created>1577753464344</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1577753464344</updated>
+    </task>
+    <task id="LOCAL-00030" summary="updated creation details ui">
+      <created>1577764790213</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1577764790213</updated>
+    </task>
+    <task id="LOCAL-00031" summary="added some spaces to text">
+      <created>1577765657161</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1577765657161</updated>
+    </task>
+    <task id="LOCAL-00032" summary="updated UI for account info">
+      <created>1577836530470</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1577836530470</updated>
+    </task>
+    <task id="LOCAL-00033" summary="added navigation menu to all 4 main screens, removed some unused imports">
+      <created>1577838718988</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1577838718988</updated>
+    </task>
+    <task id="LOCAL-00034" summary="finished UI for payment. minor changes in other screens">
+      <created>1577847798085</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1577847798085</updated>
+    </task>
+    <task id="LOCAL-00035" summary="resolved warnings and deleted unnecessary code +old classes">
+      <created>1577851214508</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1577851214508</updated>
+    </task>
+    <task id="LOCAL-00036" summary="added alt to &lt;img&gt; tags">
+      <created>1577851449233</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1577851449233</updated>
+    </task>
+    <task id="LOCAL-00037" summary="finished edit UI, added back button to most screens, fixed coupon translation">
+      <created>1577860974691</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1577860974691</updated>
+    </task>
+    <task id="LOCAL-00038" summary="latitude/longitude change">
+      <created>1578009461057</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1578009461057</updated>
+    </task>
+    <task id="LOCAL-00039" summary="latitude/longitude change">
+      <created>1578009910651</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1578009910651</updated>
+    </task>
+    <task id="LOCAL-00040" summary="started styling">
+      <created>1578022823954</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1578022823954</updated>
+    </task>
+    <task id="LOCAL-00041" summary="huge UI update and re-org. of styling">
+      <created>1578033748568</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1578033748568</updated>
+    </task>
+    <task id="LOCAL-00042" summary="pushed KinasheLogoWordsBlack.png">
+      <created>1578100447695</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1578100447695</updated>
+    </task>
+    <task id="LOCAL-00043" summary="pushed KinasheLogoWords.png">
+      <created>1578101456012</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1578101456012</updated>
+    </task>
+    <task id="LOCAL-00044" summary="renamed outdated clas names more intuitively">
+      <created>1578104476830</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1578104476830</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added some checks for signup, change tab icon and title">
+      <created>1578111276696</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1578111276696</updated>
+    </task>
+    <task id="LOCAL-00046" summary="added some validation for settings, fixes for validation in signup">
+      <created>1578112792975</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1578112792975</updated>
+    </task>
+    <task id="LOCAL-00047" summary="added find location, fixed major lat/long verification bug">
+      <created>1578206570234</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1578206570235</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated menubar, added (temp) way in for Alex bc VPN are inconsistant." />
+    <MESSAGE value="added skeleton ui for settings page (should open with fields prefilled, but currently doesn't)" />
+    <MESSAGE value="re-added Alex skip auth." />
+    <MESSAGE value="minor account settings ui changes" />
+    <MESSAGE value="re-added my old UI and added Notes" />
+    <MESSAGE value="notes.txt" />
+    <MESSAGE value="updated signup ui" />
+    <MESSAGE value="minor ui changes to coupon and company home" />
+    <MESSAGE value="updated creation details ui" />
+    <MESSAGE value="added some spaces to text" />
+    <MESSAGE value="updated UI for account info" />
+    <MESSAGE value="added navigation menu to all 4 main screens, removed some unused imports" />
+    <MESSAGE value="finished UI for payment. minor changes in other screens" />
+    <MESSAGE value="resolved warnings and deleted unnecessary code +old classes" />
+    <MESSAGE value="added alt to &lt;img&gt; tags" />
+    <MESSAGE value="finished edit UI, added back button to most screens, fixed coupon translation" />
+    <MESSAGE value="latitude/longitude change" />
+    <MESSAGE value="started styling" />
+    <MESSAGE value="huge UI update and re-org. of styling" />
+    <MESSAGE value="pushed KinasheLogoWordsBlack.png" />
+    <MESSAGE value="pushed KinasheLogoWords.png" />
+    <MESSAGE value="renamed outdated clas names more intuitively" />
+    <MESSAGE value="added some checks for signup, change tab icon and title" />
+    <MESSAGE value="added some validation for settings, fixes for validation in signup" />
+    <MESSAGE value="added find location, fixed major lat/long verification bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="added find location, fixed major lat/long verification bug" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="115" key="CommitChangelistDialog2" timestamp="1578206569577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="115" key="CommitChangelistDialog2/-1366.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578206569577" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1578201073813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/-1366.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578201073813" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1578126719698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578126719698" />
+    <state x="259" y="10" key="SettingsEditor" timestamp="1578206538757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="259" y="10" key="SettingsEditor/-1366.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578206538757" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578127053052" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1578206572394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/-1366.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578206572394" />
+    <state x="540" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1578198187141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="270" key="com.intellij.ide.util.TipDialog/-1366.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578198187141" />
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578177650428" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578269550187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="692" y="403" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1366.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578206545858" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1578269550187" />
+    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup" timestamp="1578200091353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="486" y="70" width="945" height="969" key="search.everywhere.popup/-1366.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578200091353" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578126277276" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>kinashe</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
