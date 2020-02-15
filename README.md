@@ -9,6 +9,9 @@ verified, gives that company's coupons priority in the mobile app.
 ## Home Page
 ![Kinashe Home Page](/displayScreenshots/Homepage.PNG)
 
+The home page is where a company can see all their active coupons. The ones labeled "active" are currently
+displayed in the mobile app, while the ones labeled "inactive" have either expired or have been manually set to inactive
+
 ## Coupon Creation Page
 ![Kinashe Home Page](/displayScreenshots/CouponCreator.PNG)
 
