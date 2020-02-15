@@ -9,3 +9,15 @@ verified, gives that company's coupons priority in the mobile app.
 ## Home Page
 ![Kinashe Home Page](/displayScreenshots/Homepage.PNG)
 
+## Coupon Creation Page
+![Kinashe Home Page](/displayScreenshots/CouponCreator.PNG)
+
+## Payment Page
+![Kinashe Home Page](/displayScreenshots/Payment.PNG)
+
+## Home Page
+![Kinashe Home Page](/displayScreenshots/Homepage.PNG)
+
+## Home Page
+![Kinashe Home Page](/displayScreenshots/Homepage.PNG)
+
