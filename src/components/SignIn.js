@@ -46,7 +46,7 @@ class SignIn extends Component {
           this.setState({ submitted: false });
         } else {
           if (firebase.isAdmin()) {
-            this.props.history.push("/adminHome");
+            this.props.history.push("/admin_verifyAccounts");
           } else {
             this.props.history.push("/home");
           }
