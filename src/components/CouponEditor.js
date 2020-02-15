@@ -136,6 +136,13 @@ class CouponEditor extends Component {
             <Typography variant="h6" style={{ flexGrow: 1 }}>
               Coupon Editor
             </Typography>
+            <Button
+              onClick={this.goBack}
+              variant="contained"
+              style={Styles.buttonPrimary}
+            >
+              Back
+            </Button>
           </Toolbar>
         </AppBar>
         {this.state ? (
