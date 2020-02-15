@@ -7,4 +7,5 @@ company photos, creating pop up advertisements in the app, and requesting a paym
 verified, gives that company's coupons priority in the mobile app.
 
 ## Home Page
+![Kinashe Home Page](/)
 
