@@ -926,7 +926,7 @@ class SignUp extends Component {
                                     shrink: true
                                   }}
                                   inputProps={{
-                                    step: 60
+                                    step: 60 // 1 min
                                   }}
                                 />
                                 <TextField
@@ -943,7 +943,7 @@ class SignUp extends Component {
                                     shrink: true
                                   }}
                                   inputProps={{
-                                    step: 900 // 15 min
+                                    step: 60 // 1 min
                                   }}
                                 />
                               </Grid>

@@ -648,7 +648,7 @@ class Settings extends Component {
                                 shrink: true
                               }}
                               inputProps={{
-                                step: 900 // 15 min
+                                step: 60 // 15 min
                               }}
                             />
                             <TextField
@@ -662,7 +662,7 @@ class Settings extends Component {
                                 shrink: true
                               }}
                               inputProps={{
-                                step: 900 // 15 min
+                                step: 60 // 15 min
                               }}
                             />
                           </ListItem>
